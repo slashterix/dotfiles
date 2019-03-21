@@ -22,3 +22,5 @@
         unstage = reset HEAD --
 [push]
         default = simple
+[pull]
+	rebase = preserve
